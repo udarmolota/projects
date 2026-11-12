@@ -65,10 +65,10 @@
       "name": "Zomdroid",
       "description": {
         "en": "A launcher that runs Project Zomboid on Android. ",
-        "ru": "Лаунчер, который запускает Project Zomboid на Android. Вы здесь.",
-        "zh": "在 Android 上运行 Project Zomboid 的启动器。你正在使用它。",
-        "pt": "Um launcher que roda Project Zomboid no Android. Você está aqui.",
-        "in": "Launcher yang menjalankan Project Zomboid di Android. Anda di sini."
+        "ru": "Лаунчер, который запускает Project Zomboid на Android. ",
+        "zh": "在 Android 上运行 Project Zomboid 的启动器。",
+        "pt": "Um launcher que roda Project Zomboid no Android.",
+        "in": "Launcher yang menjalankan Project Zomboid di Android."
       },
       "icon": "https://raw.githubusercontent.com/udarmolota/projects/main/icons/project_zomdroid.png",
       "github": "udarmolota/zomdroid"
