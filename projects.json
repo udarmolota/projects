@@ -2,6 +2,18 @@
   "reddit": "https://www.reddit.com/r/UdarMolotaDev",
   "projects": [
     {
+      "name": "SyxDroid",
+      "description": {
+        "en": "A launcher that runs Songs of Syx on Android.",
+        "ru": "Лаунчер, который запускает Songs of Syx на Android.",
+        "zh": "在 Android 上运行 Songs of Syx 的启动器。",
+        "pt": "Um launcher que roda Songs of Syx no Android.",
+        "in": "Launcher yang menjalankan Songs of Syx di Android."
+      },
+      "icon": "https://raw.githubusercontent.com/udarmolota/projects/main/icons/project_syxdroid.png",
+      "github": "udarmolota/syxdroid"
+    },
+    {
       "name": "XDroid360",
       "description": {
         "en": "A launcher that runs Dragon Age: Origins and State of Decay on Android.",
