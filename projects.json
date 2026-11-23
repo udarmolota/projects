@@ -2,6 +2,18 @@
   "reddit": "https://www.reddit.com/r/UdarMolotaDev",
   "projects": [
     {
+      "name": "OxyDroid",
+      "description": {
+        "en": "A launcher that runs Oxygen Not Included on Android.",
+        "ru": "Лаунчер, который запускает Oxygen Not Included на Android.",
+        "zh": "在 Android 上运行 Oxygen Not Included 的启动器。",
+        "pt": "Um launcher que roda Oxygen Not Included no Android.",
+        "in": "Launcher yang menjalankan Oxygen Not Included di Android."
+      },
+      "icon": "https://raw.githubusercontent.com/udarmolota/projects/main/icons/project_oxydroid.png",
+      "github": "udarmolota/OxyDroid"
+    },
+    {
       "name": "SyxDroid",
       "description": {
         "en": "A launcher that runs Songs of Syx on Android.",
